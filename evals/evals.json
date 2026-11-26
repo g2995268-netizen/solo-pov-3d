@@ -1,0 +1,20 @@
+{
+  "skill": "solo-pov-3d",
+  "test_cases": [
+    {
+      "name": "creepy_home_return",
+      "input": "Сделай Solo-POV creepy ролик про возвращение домой и странную кружку",
+      "assertions": ["Uses internal monologue only", "Follows two-stage workflow", "Thick outline toon style", "Green POV arms"]
+    },
+    {
+      "name": "blackout_survival",
+      "input": "Нужен psychological blackout сценарий от первого лица на 60 секунд",
+      "assertions": ["One voice", "Flashlight/phone light cone", "Claustrophobic camera", "Stops for ElevenLabs at stage 1"]
+    },
+    {
+      "name": "nutty_putty_inspired",
+      "input": "Сделай клаустрофобный POV в стиле реальной пещерной истории",
+      "assertions": ["Tight space geometry", "Can't turn around moment", "Breathing and silence emphasis", "No other characters speaking"]
+    }
+  ]
+}

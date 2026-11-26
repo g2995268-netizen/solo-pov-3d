@@ -1,0 +1,10 @@
+{
+  "skill": "solo-pov-3d",
+  "test_cases": [
+    {"input": "сделай 3D POV horror с внутренним монологом", "should_trigger": true},
+    {"input": "solo pov creepy story one voice", "should_trigger": true},
+    {"input": "nutty putty style first person", "should_trigger": true},
+    {"input": "сделай обычный диалоговый мультфильм", "should_trigger": false},
+    {"input": "pixel art alex mercer", "should_trigger": false}
+  ]
+}
